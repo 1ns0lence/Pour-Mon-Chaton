@@ -1,2 +1,1 @@
-# Pour-Mon-Chaton
-Gros chaat
+Base de code pour le cours HTML CSS
